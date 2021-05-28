@@ -15,3 +15,5 @@
 - NextJS
 - Kubernetes
 - Docker
+
+Project is on hold at the moment, will resume later on.
